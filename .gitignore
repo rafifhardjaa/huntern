@@ -43,6 +43,3 @@ next-env.d.ts
 
 # editor / local workspace
 /.obsidian/
-
-# archived scaffold duplicate
-/ARD/src/
